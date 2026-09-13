@@ -4,7 +4,11 @@
     <title>MeshMachine Updates</title>
     <link>https://github.com/humbertowgw-maker/meshmachine-releases/raw/main/appcast.xml</link>
     <description>Release feed for the MeshMachine control-plane app.</description>
-  <item>
+    <language>en</language>
+    <!-- Entries are added here by scripts/publish-update.sh in the main
+         meshmachine repo. Each <item> names one signed release zip
+         published as a GitHub Release asset in this repo. -->
+    <item>
       <title>Version 0.3.0</title>
       <pubDate>Sun, 13 Sep 2026 22:37:52 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
@@ -12,9 +16,5 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/humbertowgw-maker/meshmachine-releases/releases/download/v0.3.0/MeshMachine-0.3.0.zip" sparkle:edSignature="XPaPAqMg6nRhxmiomiNSzqj2KPvRenDSFMkoEJnvw7pu5j81nmLoIxqyVERZ8j2gGGIKLow0MSJkRulex6JEAg==" length="91337909" type="application/octet-stream" />
     </item>
-    <language>en</language>
-    <!-- Entries are added here by scripts/release-macos.sh in the main
-         meshmachine repo. Each <item> names one signed release zip
-         published as a GitHub Release asset in this repo. -->
   </channel>
 </rss>
