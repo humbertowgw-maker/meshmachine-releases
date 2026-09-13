@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MeshMachine Updates</title>
+    <link>https://github.com/humbertowgw-maker/meshmachine-releases/raw/main/appcast.xml</link>
+    <description>Release feed for the MeshMachine control-plane app.</description>
+    <language>en</language>
+    <!-- Entries are added here by scripts/release-macos.sh in the main
+         meshmachine repo. Each <item> names one signed release zip
+         published as a GitHub Release asset in this repo. -->
+  </channel>
+</rss>
