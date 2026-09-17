@@ -64,5 +64,13 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/humbertowgw-maker/meshmachine-releases/releases/download/v0.4.5/MeshMachine-0.4.5.zip" sparkle:edSignature="RqxE0hc32r9mYl0M05bbhcWsu3Tqm3Tr3T00Jba2AxMB6DxZDSck7+sU5rUgzHPJjt5D4zKyBFK9ggOIVzX1AQ==" length="91424038" type="application/octet-stream" />
     </item>
+  <item>
+      <title>Version 0.4.6</title>
+      <pubDate>Thu, 17 Sep 2026 00:11:43 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/humbertowgw-maker/meshmachine-releases/releases/download/v0.4.6/MeshMachine-0.4.6.zip" sparkle:edSignature="SbaD+M0wRhfzvX6zd4YdRYDe8406eLp5+oR1GHp34nVvJ3KacxXs7y2XO4i2k5DOKNgjUnW4xt+0NHlJlZvdCA==" length="91426921" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
